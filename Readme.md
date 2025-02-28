@@ -21,6 +21,9 @@ The chatbot works in the following steps:
 ```sh
 git clone <repository-url>
 cd CDP-Llama-Chatbot
+
+----
+
 # Create Virtual Environment
 
 ## For Windows
