@@ -26,11 +26,12 @@ cd CDP-Llama-Chatbot
 
 ## For Windows
 
-```sh
 python -m venv .venv
 source .venv/Scripts/activate
 
-##Install Dependencies
+---
+
+## Install Dependencies
 pip install -r requirements.txt
 
 
@@ -56,7 +57,7 @@ Retrieve relevant sections from the documentation.
 Feed them into the LLM along with your question.
 Return a human-like response with the required information.
 
-##Tech Stack 
+## Tech Stack 
 Component         : Technology
 Language Model    : Llama
 Embedding Model   : all-MiniLM-L6-v2
@@ -76,7 +77,7 @@ transformers
 sentence-transformers
 torch
 
-##License
+## License
 This project is licensed under the MIT License.
 ##Contributing
 Contributions are welcome!
